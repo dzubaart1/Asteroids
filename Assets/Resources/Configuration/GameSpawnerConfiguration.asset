@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e7f3d189a574c09af3216e72c68f2a7, type: 3}
+  m_Name: GameSpawnerConfiguration
+  m_EditorClassIdentifier: 
+  PlayerPrefab: {fileID: 8374241511333738645, guid: 6f7c477582b389c42b2fb817b732180b, type: 3}
+  AsteroidsSpawnerPrefab: {fileID: 5544660370055415909, guid: fcbfcfe30a8d1b442889cc59ea172fd7, type: 3}
